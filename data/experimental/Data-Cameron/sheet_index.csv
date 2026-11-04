@@ -1,0 +1,10 @@
+sheet_order,excel_sheet,csv_file,rows,columns
+1,40%wt glyoxal,sheet_01_40_wt_glyoxal.csv,25,3
+2,ethylene glycol,sheet_02_ethylene_glycol.csv,12,3
+3,4 1 water-ethanol,sheet_03_4_1_water_ethanol.csv,12,3
+4,4 1 1 water-methanol-ethanol,sheet_04_4_1_1_water_methanol_ethanol.csv,10,4
+5,3 1 1 1 water-meoh-etoh-ethylgl,sheet_05_3_1_1_1_water_meoh_etoh_ethylgl.csv,15,3
+6,propanal,sheet_06_propanal.csv,22,3
+7,4 1 propanal-ethanol,sheet_07_4_1_propanal_ethanol.csv,26,3
+8,methyl formate,sheet_08_methyl_formate.csv,17,3
+9,4 1 methyl formate-ethanol,sheet_09_4_1_methyl_formate_ethanol.csv,26,3

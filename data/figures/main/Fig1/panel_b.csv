@@ -1,0 +1,13 @@
+compound_name,tc_c,pc_bar,pg_gpa,pg_error_gpa,critical_property_reference,critical_ref_code
+Methanol,239.5,80.8,9.985,1.385,https://www.researchgate.net/figure/The-phase-diagram-of-methanol-The-critical-point-T-c-2395-C-p-c-808-bar-is_fig2_330377572,C1
+Methyl Formate,214.2,60.4,7.625,0.255,https://webbook.nist.gov/cgi/cbook.cgi?ID=C107313&Units=SI&Mask=80F,C2
+Isopentane,188.0,34.106,7.2,0.2,https://webbook.nist.gov/cgi/cbook.cgi?ID=C78784&Mask=4,C2
+Isohexane,224.7,30.4,6.16,,https://pubs.acs.org/jceaax/article/51/3/785/3479428/Short-Fundamental-Equations-of-State-for-20,C3
+Acetone,235.15,47.0,5.055,0.605,https://pubs.acs.org/jceaax/article/51/3/785/3479428/Short-Fundamental-Equations-of-State-for-20,C3
+Propanal,327.0,52.7,4.195,0.195,https://webbook.nist.gov/cgi/cbook.cgi?ID=C123386&Mask=4,C2
+Propan-1-ol,263.9,52.0,5.0,,https://webbook.nist.gov/cgi/cbook.cgi?ID=C71238&Mask=4,C2
+Propan-2-ol,236.0,49.0,4.3,,https://webbook.nist.gov/cgi/cbook.cgi?ID=C67630&Mask=4,C2
+Glycerin,577.0,75.0,4.0,1.0,https://webbook.nist.gov/cgi/cbook.cgi?ID=C56815&Mask=7EF,C2
+Perfluoropentane,148.85,20.37,2.2,,https://www.sciencedirect.com/science/article/pii/0378381294800324,C4
+FC-75,227.06,16.07015,1.275,0.075,https://pubs.acs.org/jceaax/article/5/1/24/1013821/Thermodynamic-Properties-of-Perfluoro-2,C5
+FC-72,178.65,19.05,1.05,,https://www.sciencedirect.com/science/article/pii/0378381294800324,C4

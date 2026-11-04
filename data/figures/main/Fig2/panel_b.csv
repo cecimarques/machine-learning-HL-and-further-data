@@ -1,0 +1,17 @@
+compound_name,pg_gpa,pg_error_gpa,tg_c,tg_provenance,tg_reference,tg_ref_code
+Methanol,9.985,1.385,-170.45,measured,BIMOG database (https://zenodo.org/records/7319485),T1
+Methyl Formate,7.625,0.255,-143.05,predicted,,
+Isopentane,7.2,0.2,-197.15,measured,BIMOG database (https://zenodo.org/records/7319485),T1
+Isohexane,6.16,,-195.15,measured,BIMOG database (https://zenodo.org/records/7319485),T1
+Acetone,5.055,0.605,-173.0,measured,BIMOG database (https://zenodo.org/records/7319485),T1
+Propanal,4.195,0.195,-180.35,predicted,,
+Propan-1-ol,5.0,,-175.15,measured,BIMOG database (https://zenodo.org/records/7319485),T1
+Propan-2-ol,4.3,,-153.25,measured,BIMOG database (https://zenodo.org/records/7319485),T1
+Glycerin,4.0,1.0,-87.15,measured,BIMOG database (https://zenodo.org/records/7319485),T1
+DMS-T01,3.0,,-149.75,measured,https://www.sciencedirect.com/science/article/pii/0032386185901405,T2
+Perfluoropentane,2.2,,-27.05,predicted,,
+FC-75,1.275,0.075,24.05,predicted,,
+FC-72,1.05,,-8.75,predicted,,
+"Silicone oil, viscosity 37 cSt",0.9,,-63.15,measured, https://doi.org/10.1063/1.4789948 ,T3
+Daphne 7676,5.0,,-163.15,measured,https://ui.adsabs.harvard.edu/abs/2025HPR....45..151M/abstract,T4
+Daphne 7474,5.2,1.5,-133.15,measured,https://ui.adsabs.harvard.edu/abs/2025HPR....45..151M/abstract,T4

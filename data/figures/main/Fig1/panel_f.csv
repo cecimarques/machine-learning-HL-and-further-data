@@ -1,0 +1,175 @@
+dataset_tab,compound_id,hl_sim_gpa,forcefield_penalty,psat_kpa,compound_name,smiles,psat_plot_kpa
+key,1,5.972,False,18.56,methanol,CO,18.56
+key,2,3.3745,False,8.92,ethanol,CCO,8.92
+key,3,1.90795,False,0.36,pentanol,CCCCCO,0.36
+key,4,1.3795,False,0.02,octanol,CCCCCCCCO,0.02
+key,5,1.4935,False,0.59,2-methyl butan-1-ol,CCC(C)CO,0.59
+key,6,2.5535,False,10.87,"2,2,2-Trifluoroethan-1-ol",C(C(F)(F)F)O,10.87
+key,7,1.07,False,0.06,octan-4-ol,CCCCC(CCC)O,0.06
+key,8,1.211,False,0.04,2-propyl pentan-1-ol,CCCC(CCC)CO,0.04
+key,9,1.51,False,96.47,"1,1,1,2,2,3,3,4,4,5,5,5-dodecafluoropentane",C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F,96.47
+key,10,1.4425,False,1.02,pentan-2-ol,CCCC(C)O,1.02
+key,11,0.9055,False,0.06,"2,3,4-trimethyl pentan-1-ol",CC(C)C(C)C(C)CO,0.06
+key,12,0.97,False,0.12,"3,4-dimethyl hexan-2-ol",CCC(C)C(C)C(C)O,0.12
+key,13,1.0225,False,6.98,"1,1-dimethyl ethan-1-ol",CC(C)(C)O,6.98
+key,14,1.077,False,0.45,"1,1-diethyl propan-1-ol",CCC(CC)(CC)O,0.45
+key,15,0.691,False,0.03,"3,5-dimethyl cyclohexan-1-ol",CC1CC(CC(C1)O)C,0.03
+key,16,1.315,False,0.24,"2,4-dimethyl  hexan-2-ol",CCC(C)CC(C)(C)O,0.24
+key,17,0.8005,False,0.07,"2,6-dimethyl cyclohexan-1-ol",CC1CCCC(C1O)C,0.07
+key,18,1.602,False,0.34,cyclopentanol,C1CCC(C1)O,0.34
+key,19,0.4655,False,0.01,cyclooctanol,C1CCCC(CCC1)O,0.01
+key,20,1.1815,False,0.06,phenol,C1=CC=C(C=C1)O,0.06
+key,21,0.8495,False,0.12,cyclohexanol,C1CCC(CC1)O,0.12
+key,22,3.58,True,40.3,"trans-1,2-dichloroethene",C(=CCl)Cl,40.3
+key,23,7.5345,True,0.13,hydrogen peroxide,OO,0.13
+key,24,1.0275,False,0.1,cyclohex-3-en-1-ol,C1CC(CC=C1)O,0.1
+key,25,1.2375,False,0.13,cyclohexen-1-ol,C1CCC(=CC1)O,0.13
+key,26,0.8275,False,0.16,"cyclohex-1,4-dien-1-ol",C1C=CCC(=C1)O,0.16
+key,27,1.325,False,0.01,2-sulfanyl phenol,C1=CC=C(C(=C1)O)S,0.01
+key,28,2.7195,False,1.74,pentanethiol,CCCCCS,1.74
+key,29,2.5375,False,4.03,pentanamine,CCCCCN,4.03
+key,30,2.722,False,4.62,chloropentane,CCCCCCl,4.62
+key,31,4.5175,False,0.18,methanediol,C(O)O,0.18
+key,32,0.762,False,0.0,"pentane-1,5-diol",C(CCO)CCO,0.001
+key,33,0.84555,False,0.0,"octane-1,8-diol",C(CCCCO)CCCO,0.001
+key,34,3.2725,False,26.75,ethyl propyl ether,CCCOCC,26.75
+key,35,3.2895,False,21.17,fluoropentane,CCCCCF,21.17
+key,36,1.961,False,1.97,bromopentane,CCCCCBr,1.97
+key,37,2.359,True,0.63,iodopentane,CCCCCI,0.63
+key,38,3.423,False,5.24,pentanal,CCCCC=O,5.24
+key,39,3.1595,False,5.22,pentan-3-one,CCC(=O)CC,5.22
+key,40,2.8545,False,5.35,ethyl propionate,CCC(=O)OCC,5.35
+key,41,1.594,False,0.03,pentanoic acid,CCCCC(=O)O,0.03
+key,42,1.294,False,0.0,pentanamide,CCCCC(=O)N,0.001
+key,43,2.348,False,1.03,pentanenitrille,CCCCC#N,1.03
+key,44,0.317,False,0.0,methyl dihydrogen phosphate,COP(=O)(O)O,0.001
+key,45,1.01455,True,51.67,carbon disulfide,C(=S)=S,51.67
+key,46,1.089,True,0.0,"thiolane 1,1-dioxide",C1CCS(=O)(=O)C1,0.001
+key,47,0.7195,False,12.31,"1,2,3,4,5,6-hexafluorobenzene  ",C1(=C(C(=C(C(=C1F)F)F)F)F)F,12.31
+key,48,3.84,True,52.83,acetyl chloride,CC(=O)Cl,52.83
+key,49,1.1875,False,0.0,glycerin,C(C(CO)O)O,0.001
+key,50,5.33805,False,72.89,ethanethiol,CCS,72.89
+key,51,3.794,False,50.82,chloropropane,CCCCl,50.82
+key,52,3.754,False,46.17,propanamine,CCCN,46.17
+key,53,3.252,False,77.33,diethyl ether,CCOCC,77.33
+key,54,4.099,False,75.94,fluorobutane,CCCCF,75.94
+key,55,3.2745,False,74.53,n-pentane,CCCCC,74.53
+key,57,4.868,False,44.7,propanal,CCC=O,44.7
+key,58,2.272,False,2.09,acetic acid,CC(=O)O,2.09
+key,59,4.755,False,5.29,formic acid,C(=O)O,5.29
+key,60,4.518,False,32.84,acetone,CC(=O)C,32.84
+key,61,4.3965,False,81.97,methyl formate,COC=O,81.97
+key,62,3.6045,False,0.01,formamide,C(=O)N,0.01
+key,63,3.4275,False,12.76,acetonitrille,CC#N,12.76
+key,64,4.499,False,65.82,ethenol,C=CO,65.82
+key,65,5.4715,True,28.7,fluoromethanol,C(O)F,28.7
+key,66,5.302,True,0.03,Cyanic acid,C(#N)O,0.03
+key,67,2.54,True,0.51,aminomethanol,C(N)O,0.51
+key,68,5.201,True,17.78,ethynol,C#CO,17.78
+key,69,4.218,True,0.85,sulfanylmethanol,C(O)S,0.85
+key,70,2.991,True,98.88,isopentane,CCC(C)C,98.88
+key,71,1.965,False,13.39,benzene,C1=CC=CC=C1,13.39
+key,72,3.6705,False,13.03,butan-2-one,CCC(=O)C,13.03
+key,73,2.389,False,16.91,carbon tetrachloride,C(Cl)(Cl)(Cl)Cl,16.91
+key,74,2.318,False,1.81,chlorobenzene,C1=CC=C(C=C1)Cl,1.81
+key,76,1.6045,False,14.31,cyclohexane,C1CCCCC1,14.31
+key,77,3.112,False,11.77,"1,2-dichloro ethane",C(CCl)Cl,11.77
+key,78,0.8965,False,0.0,diethylene glycol,C(COCCO)O,0.001
+key,79,2.007,False,0.28,diglyme,COCCOCCOC,0.28
+key,80,2.679,False,10.03,"1,2-dimethoxy ethane",COCCOC,10.03
+key,80B,1.8635,False,0.01,Ethylene glycol,C(CO)O,0.01
+key,81,2.7705,False,0.53,dimethyl formamide,CN(C)C=O,0.53
+key,82,2.582,False,0.1,dimethyl sulfoxide,CS(=O)C,0.1
+key,83,1.6995,False,4.85,"1,4-dioxane",C1COCCO1,4.85
+key,84,2.6035,False,13.9,ethyl acetate,CCOC(=O)C,13.9
+key,85,0.3305,True,0.01,hexamethylphosphoramide,CN(C)P(=O)(N(C)C)N(C)C,0.01
+key,86,0.774,True,0.01,hexamethylphosphorous triamide,CN(C)P(N(C)C)N(C)C,0.01
+key,87,2.198,False,35.95,methyl tert-butyl ether,CC(C)(C)OC,35.95
+key,88,4.939,False,63.57,dichloromethane,C(Cl)Cl,63.57
+key,89,1.7085,True,0.06,N-methyl-2-pyrrolidone,CN1CCCC1=O,0.06
+key,90,2.8495,False,3.14,propanol,CCCO,3.14
+key,91,2.329,False,6.9,propan-2-ol,CC(C)O,6.9
+key,92,1.8915,False,3.42,pyridine,C1=CC=NC=C1,3.42
+key,93,3.876,False,24.23,tetrahydrofuran,C1CCOC1,24.23
+key,94,2.3265,False,4.3,toluene,CC1=CC=CC=C1,4.3
+key,95,2.1315,False,10.83,triethylamine,CCN(CC)CC,10.83
+key,98,1.8305,False,0.9,o-xylene,CC1=CC=CC=C1C,0.9
+key,99,1.794,False,1.28,m-xylene,CC1=CC(=CC=C1)C,1.28
+key,100,2.0815,False,1.34,p-xylene,CC1=CC=C(C=C1)C,1.34
+key,101,4.9455,False,68.23,methylsulfanylmethane,CSC,68.23
+key,102,2.9095,True,15.13,ethanethial,CC=S,15.13
+key,103,3.5495,True,63.63,ethynethiol,C#CS,63.63
+key,104,2.7,True,41.05,ethenethione,C=C=S,41.05
+key,105,5.437,True,60.26,ethenethiol,C=CS,60.26
+key,107,2.921,True,0.34,propanedial,C(C=O)C=O,0.34
+key,108,1.917,True,6.67,formic anhydride,C(=O)OC=O,6.67
+key,109,4.158,True,0.01,2-hydroxyacetaldehyde,C(C=O)O,0.01
+key,110,0.0,True,1.15,N-oxoformamide  ,C(=O)N=O,1.15
+key_PredMod-gen1,1,1.97155,False,2.492,Ethylene glycol diethyl ether,CCOCCOCC,2.492
+key_PredMod-gen1,2,1.37,False,0.174,Ethyl 3-ethoxypropionate,CCOCCC(=O)OCC,0.174
+key_PredMod-gen1,3,1.115,False,0.02,Propylene glycol,CC(CO)O,0.02
+key_PredMod-gen1,4,2.191,False,0.252,3-octanone,CCCCCC(=O)CC,0.252
+key_PredMod-gen1,5,2.2435,False,3.562,4-fluorotoluene,CC1=CC=C(C=C1)F,3.562
+key_PredMod-gen1,6,1.316,True,0.073,Diethyl oxalate,CCOC(=O)C(=O)OCC,0.073
+key_PredMod-gen1,7,2.5669,False,9.846,Isobutyl mercaptan,CC(C)CS,9.846
+key_PredMod-gen1,8,1.955,False,0.163,Dibutyl sulfide,CCCCSCCCC,0.163
+key_PredMod-gen1,9,1.0626,True,0.003,Chavicol,C=CCC1=CC=C(C=C1)O,0.003
+key_PredMod-gen1,10,2.47,False,5.06,Propyl acetate,CCCOC(=O)C,5.06
+key_PredMod-gen1,11,3.0885,True,7.887,Diacetyl,CC(=O)C(=O)C,7.887
+key_PredMod-gen1,12,1.3685,False,0.074,Trimethyl phosphate,COP(=O)(OC)OC,0.074
+key_PredMod-gen1,13,1.0965,False,0.357,"2,4,6-trimethyl pyridine",CC1=CC(=NC(=C1)C)C,0.357
+key_PredMod-gen1,14,2.6,True,49.537,"1,2-dichloro-1,1-difluoroethane",C(C(F)(F)Cl)Cl,49.537
+key_PredMod-gen1,15,2.89,True,1.102,Allyl sulfide,C=CCSCC=C,1.102
+key_PredMod-gen1,16,1.8765,False,0.86,2-ethoxyethanol,CCOCCO,0.86
+key_PredMod-gen1,17,3.21805,False,15.024,"1,3-dioxolane",C1COCO1,15.024
+key_PredMod-gen1,18,3.2115,True,67.548,Ethyl vynil ether,CCOC=C,67.548
+key_PredMod-gen1,19,1.717,False,1.126,Ethyl isovalerate,CCOC(=O)CC(C)C,1.126
+key_PredMod-gen1,20,1.5735,False,6.76,Methylcyclohexane,CC1CCCCC1,6.76
+key_PredMod-gen1,21,5.0365,True,0.505,Glyoxal,C(=O)C=O,0.505
+key_PredMod-gen1,22,3.0275,False,21.324,Methylcyclopentane,CC1CCCC1,21.324
+key_PredMod-gen1,23,2.55,False,0.06,Ethanolamine,C(CO)N,0.06
+key_PredMod-gen1,24,1.607,False,5.379,Acetal,CCOC(C)OCC,5.379
+key_PredMod-gen1,25,3.558,False,21.603,Propanethiol,CCCS,21.603
+key_PredMod-gen1,26,2.7,False,37.87,Cyclopentadiene,C1C=CC=C1,37.87
+key_PredMod-gen1,27,0.659,True,0.0,Itaconic Acid,C=C(CC(=O)O)C(=O)O,0.001
+key_PredMod-gen1,28,3.395,False,32.088,2-propanethiol,CC(C)S,32.088
+key_PredMod-gen1,29,2.11735,False,0.186,2-mercaptoethanol,C(CS)O,0.186
+key_PredMod-gen1,30,0.815,True,0.007,Mercaptoacetic acid,C(C(=O)O)S,0.007
+key_PredMod-gen1,31,3.32403,False,4.524,Dimethyl disulfide,CSSC,4.524
+key_PredMod-gen1,32,4.673,True,68.179,Bromoethane,CCBr,68.179
+key_PredMod-gen1,33,1.928,True,23.296,"1,1-dimethylhidrazine",CN(C)N,23.296
+key_PredMod-gen1,34,1.6825,True,0.013,2-nitroethanol,C(CO)[N+](=O)[O-],0.013
+key_PredMod-gen1,35,2.884,False,3.972,Dichloroacetaldehyde,C(=O)C(Cl)Cl,3.972
+key_PredMod-gen1,36,4.34568,False,3.6,Nitromethane,C[N+](=O)[O-],3.6
+key_PredMod-gen1,38,2.64,False,0.323,Beta-propiolactone,C1COC1=O,0.323
+key_PredMod-gen1,39,2.651,True,0.104,Dimethyl sulfate,COS(=O)(=O)OC,0.104
+key_PredMod-gen1,40,3.6871,False,36.22,Acrolein,C=CC=O,36.22
+key_PredMod-gen1,41,2.34,False,1.153,Ethylene clorohydrin,C(CCl)O,1.153
+key_PredMod-gen1,42,3.386,False,3.65,Allyl alcohol,C=CCO,3.65
+key_PredMod-gen1,43,3.62,True,48.603,1-chloro-2-fluoroethane,C(CCl)F,48.603
+key_PredMod-gen1,44,3.4625,False,1.92,Hydrazine,NN,1.92
+key_PredMod-gen1,45,2.471,True,23.737,Butadiene monoxide,C=CC1CO1,23.737
+key_PredMod-gen1,46,3.01,True,7.431,Thioacetic acid,CC(=O)S,7.431
+key_PredMod-gen1,47,2.409,True,7.116,Methyl fluoroacetate,COC(=O)CF,7.116
+key_PredMod-gen1,48,1.3,True,3.885,Trimethyl phosphate,COP(OC)OC,3.885
+key_PredMod-gen1,49,2.949,True,0.616,N-nitrosodimethylamine,CN(C)N=O,0.616
+key_PredMod-gen1,50,4.7995,True,20.288,Thiirane,C1CS1,20.288
+key_PredMod-gen1,51,0.59,False,0.001,"1,2,4-triazole",C1=NC=NN1,0.001
+key_PredMod-gen1,52,1.62,True,0.001,Chloroacetamide,C(C(=O)N)Cl,0.001
+key_PredMod-gen2,1,6.7555,False,126.463,acetaldehyde,CC=O,126.463
+key_PredMod-gen2,2,3.84011,False,222.328,N-methylmethanamine,CNC,222.328
+key_PredMod-gen2,3,6.99646,True,1.4,hydroxylamine,NO,1.4
+key_PredMod-gen2,4,5.02051,False,178.574,chloroethane,CCCl,178.574
+key_PredMod-gen2,5,5.11499,False,141.35,ethanamine,CCN,141.35
+key_PredMod-gen2,6,5.62111,False,653.452,"1,1-difluoroethane",CC(F)F,653.452
+key_PredMod-gen2,7,5.47689,False,195.211,"buta-1,2-diene",CC=C=C,195.211
+key_PredMod-gen2,8,4.407,True,155.174,bromoethene,C=CBr,155.174
+key_PredMod-gen2,10,3.09033,False,87.703,propan-2-amine,CC(C)N,87.703
+key_PredMod-gen2,11,4.05709,True,22.364,3-bromoprop-1-ene,C=CCBr,22.364
+key_PredMod-gen2,13,3.71314,True,15.345,prop-2-enenitrile,C=CC#N,15.345
+key_PredMod-gen2,15,1.49333,False,155.882,cyclobutane,C1CCC1,155.882
+key_PredMod-gen2,16,3.82965,True,3.898,2-fluoroethanol,C(CF)O,3.898
+key_PredMod-gen2,17,2.98288,False,0.784,"ethane-1,2-dithiol",C(CS)S,0.784
+key_PredMod-gen2,18,4.32067,False,180.703,methoxyethane,CCOC,180.703
+key_PredMod-gen2,19,3.55046,False,91.607,pent-1-ene,CCCC=C,91.607
+key_PredMod-gen2,20,1.28479,False,0.135,2-(methylamino)ethanol,CNCCO,0.135

@@ -1,0 +1,61 @@
+{
+  "workflow": "historical fold-local ET+QTTR construction",
+  "features": [
+    "mw",
+    "rho_exp",
+    "tm",
+    "tb",
+    "ri",
+    "pol",
+    "i_vol",
+    "alpha",
+    "nat",
+    "non_h",
+    "n_N",
+    "n_P",
+    "n_O",
+    "n_S",
+    "n_F",
+    "n_Cl",
+    "n_Br",
+    "n_I",
+    "vp",
+    "kappa",
+    "tc",
+    "pc",
+    "omega",
+    "triple",
+    "tg"
+  ],
+  "target": "row-wise mean available CGenFF/OPLS-AA sigma=0.1 HL_sim",
+  "cv": {
+    "type": "RepeatedKFold",
+    "n_splits": 10,
+    "n_repeats": 10,
+    "random_state": 42
+  },
+  "train": {
+    "n": 157,
+    "mae": 0.02928903708396134,
+    "rmse": 0.04767513632431881,
+    "r2": 0.998757546995958,
+    "pcc": 0.9994083135687571
+  },
+  "aggregated_oof": {
+    "n": 157,
+    "mae": 0.5374518441346474,
+    "rmse": 0.7445131353837006,
+    "r2": 0.6970012672697177,
+    "pcc": 0.8355370374183009
+  },
+  "fold_summary": {
+    "mae_mean": 0.5435338768029656,
+    "mae_ci95_half_width": 0.024552359858691773,
+    "pcc_mean": 0.8388804075910511,
+    "pcc_ci95_half_width": 0.017836204761379766
+  },
+  "quantiles": {
+    "per_oof_fold": 125,
+    "final_fit": 140
+  }
+}

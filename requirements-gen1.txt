@@ -1,0 +1,7 @@
+# Optional legacy environment for scripts/recompute_gen1_oof.py
+# TensorFlow 2.10 requires Python 3.9.
+numpy==1.26.4
+pandas==2.3.0
+scipy==1.13.1
+scikit-learn==1.2.2
+tensorflow==2.10.0

@@ -1,0 +1,60 @@
+{
+  "workflow": "reconstructed Gen-1 leakage-controlled OOF",
+  "source_notebook": "data/source/legacy/OUR_DATA/PTM_1.0.ipynb, cells 23-24",
+  "features": [
+    "mw",
+    "r_exp",
+    "tm",
+    "tb"
+  ],
+  "target": "CGenFF sigma=0.2 HL_sim",
+  "cv": {
+    "type": "KFold",
+    "n_splits": 10,
+    "shuffle": true,
+    "random_state": 42
+  },
+  "validation_corrections": [
+    "mean imputer and StandardScaler fitted within each outer training fold",
+    "early stopping performed on an inner training subset, not the outer held-out fold"
+  ],
+  "architecture": [
+    256,
+    128,
+    64,
+    32
+  ],
+  "dropout": [
+    0.3,
+    0.25,
+    0.2,
+    0.0
+  ],
+  "l2_kernel": 0.001,
+  "optimizer": "Adam default learning rate",
+  "epochs_max": 500,
+  "batch_size": 16,
+  "epochs_used": [
+    113,
+    112,
+    136,
+    59,
+    193,
+    238,
+    172,
+    151,
+    191,
+    260
+  ],
+  "metrics": {
+    "n": 70,
+    "mae_gpa": 0.6481408953230722,
+    "median_ae_gpa": 0.5857740712165832,
+    "rmse_gpa": 0.801813999038634,
+    "r2": 0.6968480468009359,
+    "pearson_r": 0.8388458762420671,
+    "spearman_rho": 0.8196833172950747,
+    "fraction_abs_error_le_1_gpa": 0.7857142857142857,
+    "max_abs_error_gpa": 1.9161228256225584
+  }
+}

@@ -1,0 +1,177 @@
+historical_set,name,smiles,tc,tm
+set 1,methanol,CO,239.7290485,-97.5
+set 1,ethanol,CCO,239.6238751,-114.14
+set 1,pentanol,CCCCCO,315.1288775,-77.58
+set 1,octanol,CCCCCCCCO,379.1078091,-14.7
+set 1,2-methyl butan-1-ol,CCC(C)CO,299.1176846,-117.2
+set 1,"2,2,2-Trifluoroethan-1-ol",C(C(F)(F)F)O,201.2911423,-44.0
+set 1,octan-4-ol,CCCCC(CCC)O,362.9178551,-40.7
+set 1,2-propyl pentan-1-ol,CCCC(CCC)CO,361.378019,-61.15
+set 1,"1,1,1,2,2,3,3,4,4,5,5,5-dodecafluoropentane",C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F,157.4246209,-10.0
+set 1,pentan-2-ol,CCCC(C)O,287.2876632,-73.0
+set 1,"2,3,4-trimethyl pentan-1-ol",CC(C)C(C)C(C)CO,357.2018899,-61.15
+set 1,"3,4-dimethyl hexan-2-ol",CCC(C)C(C)C(C)O,335.4085864,-61.15
+set 1,"1,1-dimethyl ethan-1-ol",CC(C)(C)O,232.5573269,25.81
+set 1,"1,1-diethyl propan-1-ol",CCC(CC)(CC)O,332.9123593,-13.0
+set 1,"3,5-dimethyl cyclohexan-1-ol",CC1CC(CC(C1)O)C,370.4320216,-33.360000000000014
+set 1,"2,4-dimethyl  hexan-2-ol",CCC(C)CC(C)(C)O,332.4045366,-40.35
+set 1,"2,6-dimethyl cyclohexan-1-ol",CC1CCCC(C1O)C,353.995344,32.0
+set 1,cyclopentanol,C1CCC(C1)O,347.6437118,-17.0
+set 1,cyclooctanol,C1CCCC(CCC1)O,426.0481072,25.1
+set 1,phenol,C1=CC=C(C=C1)O,421.1136452,40.89
+set 1,cyclohexanol,C1CCC(CC1)O,374.2139998,26.0
+set 1,"trans-1,2-dichloroethene",C(=CCl)Cl,254.6119333,-49.8
+set 1,hydrogen peroxide,OO,456.9825206,-0.43
+set 1,cyclohex-3-en-1-ol,C1CC(CC=C1)O,389.1178443,-46.66
+set 1,cyclohexen-1-ol,C1CCC(=CC1)O,400.95195,-1.31
+set 1,"cyclohex-1,4-dien-1-ol",C1C=CCC(=C1)O,431.1632682,18.28
+set 1,2-sulfanyl phenol,C1=CC=C(C(=C1)O)S,464.6282018,5.5
+set 1,pentanethiol,CCCCCS,325.263946,-75.69
+set 1,pentanamine,CCCCCN,284.4859985,-51.0
+set 1,chloropentane,CCCCCCl,297.292544,-99.0
+set 1,methanediol,C(O)O,383.3808844,-45.0
+set 1,"pentane-1,5-diol",C(CCO)CCO,450.0872903,-20.0
+set 1,"octane-1,8-diol",C(CCCCO)CCCO,484.2336496,59.6
+set 1,ethyl propyl ether,CCCOCC,227.4728713,-127.5
+set 1,fluoropentane,CCCCCF,204.6979655,-120.0
+set 1,bromopentane,CCCCCBr,342.6523323,-88.0
+set 1,iodopentane,CCCCCI,365.2701757,-85.6
+set 1,pentanal,CCCCC=O,293.4342627,-81.5
+set 1,pentan-3-one,CCC(=O)CC,285.6705007,-38.98
+set 1,ethyl propionate,CCC(=O)OCC,273.0540484,-73.59999999999998
+set 1,pentanoic acid,CCCCC(=O)O,366.471215,-33.63
+set 1,pentanamide,CCCCC(=O)N,440.978357,104.0
+set 1,pentanenitrille,CCCCC#N,337.2750331,-96.2
+set 1,methyl dihydrogen phosphate,COP(=O)(O)O,462.206965,23.57
+set 1,carbon disulfide,C(=S)=S,290.0492219,-111.7
+set 1,"thiolane 1,1-dioxide",C1CCS(=O)(=O)C1,572.7126974,28.45
+set 1,"1,2,3,4,5,6-hexafluorobenzene",C1(=C(C(=C(C(=C1F)F)F)F)F)F,255.4541828,5.1
+set 1,acetyl chloride,CC(=O)Cl,223.9189009,-112.7
+set 1,glycerin,C(C(CO)O)O,536.8929242,18.2
+set 1,ethanethiol,CCS,228.6458413,-147.89
+set 1,chloropropane,CCCCl,228.6555985,-122.9
+set 1,propanamine,CCCN,220.4593771,-84.78
+set 1,diethyl ether,CCOCC,193.4866122,-116.22
+set 1,fluorobutane,CCCCF,180.9823349,-134.0
+set 1,n-pentane,CCCCC,196.6149031,-126.67
+set 1,propanal,CCC=O,230.3927022,-80.0
+set 1,acetic acid,CC(=O)O,319.0563831,17.0
+set 1,formic acid,C(=O)O,260.6408572,8.3
+set 1,acetone,CC(=O)C,234.8621086,-94.9
+set 1,methyl formate,COC=O,228.4273691,-99.7
+set 1,formamide,C(=O)N,301.4451231,2.57
+set 1,acetonitrille,CC#N,229.2828863,-44.0
+set 1,ethenol,C=CO,204.0080604,-104.0
+set 1,fluoromethanol,C(O)F,232.305438,-93.24
+set 1,Cyanic acid,C(#N)O,159.8716193,-86.0
+set 1,aminomethanol,C(N)O,369.3708479,-14.98
+set 1,ethynol,C#CO,216.2807812,-35.19
+set 1,sulfanylmethanol,C(O)S,337.5003714,-87.0
+set 1,isopentane,CCC(C)C,189.0968297,-159.8
+set 1,benzene,C1=CC=CC=C1,288.7940255,5.538
+set 1,butan-2-one,CCC(=O)C,264.5935395,-86.67
+set 1,carbon tetrachloride,C(Cl)(Cl)(Cl)Cl,278.4745644,-22.8
+set 1,chlorobenzene,C1=CC=C(C=C1)Cl,359.4429529,-45.2
+set 1,chloroform,C(Cl)(Cl)Cl,263.2658747,-63.47
+set 1,cyclohexane,C1CCCCC1,282.0970141,6.7
+set 1,"1,2-dichloro ethane",C(CCl)Cl,288.6934656,-35.6
+set 1,diethylene glycol,C(COCCO)O,472.5664387,-10.3
+set 1,diglyme,COCCOCCOC,335.4413472,-64.0
+set 1,"1,2-dimethoxy ethane",COCCOC,262.9988069,-69.0
+set 1,Ethylene glycol,C(CO)O,437.8839441,-13.0
+set 1,dimethyl formamide,CN(C)C=O,376.6635151,-60.3
+set 1,dimethyl sulfoxide,CS(=O)C,455.7561007,18.52
+set 1,"1,4-dioxane",C1COCCO1,310.4400591,11.75
+set 1,ethyl acetate,CCOC(=O)C,250.4501614,-83.8
+set 1,hexamethylphosphoramide,CN(C)P(=O)(N(C)C)N(C)C,456.9285224,7.2
+set 1,hexamethylphosphorous triamide,CN(C)P(N(C)C)N(C)C,383.451163,-44.0
+set 1,methyl tert-butyl ether,CC(C)(C)OC,224.1653035,-108.6
+set 1,dichloromethane,C(Cl)Cl,233.7503568,-95.0
+set 1,N-methyl-2-pyrrolidone,CN1CCCC1=O,451.6803107,-24.0
+set 1,propanol,CCCO,263.6300277,-124.39
+set 1,propan-2-ol,CC(C)O,235.5387307,-87.91
+set 1,pyridine,C1=CC=NC=C1,346.6457068,-41.63
+set 1,tetrahydrofuran,C1CCOC1,267.728258,-108.38
+set 1,toluene,CC1=CC=CC=C1,318.5702389,-95.0
+set 1,triethylamine,CCN(CC)CC,260.5106401,-114.7
+set 1,o-xylene,CC1=CC=CC=C1C,355.2073868,-25.16
+set 1,m-xylene,CC1=CC(=CC=C1)C,344.0229641,-47.85
+set 1,p-xylene,CC1=CC=C(C=C1)C,342.3524135,13.3
+set 1,methylsulfanylmethane,CSC,229.8393811,-98.26
+set 1,ethanethial,CC=S,198.7931401,-77.68
+set 1,ethynethiol,C#CS,254.7411736,-32.83
+set 1,ethenethione,C=C=S,194.3245319,-89.33
+set 1,ethenethiol,C=CS,224.3956802,-77.68
+set 1,propanedial,C(C=O)C=O,296.1051964,73.0
+set 1,formic anhydride,C(=O)OC=O,287.0961538,83.88
+set 1,2-hydroxyacetaldehyde,C(C=O)O,336.0743664,97.0
+set 1,N-oxoformamide,C(=O)N=O,217.332066,168.0
+set 2,Ethylene glycol diethyl ether,CCOCCOCC,288.0822233,-73.88888889
+set 2,Ethyl 3-ethoxypropionate,CCOCCC(=O)OCC,357.542579,-100.0
+set 2,Propylene glycol,CC(CO)O,400.9045202,-60.0
+set 2,3-octanone,CCCCCC(=O)CC,355.4349819,-23.0
+set 2,4-fluorotoluene,CC1=CC=C(C=C1)F,311.1226541,-56.77777778
+set 2,Diethyl oxalate,CCOC(=O)C(=O)OCC,361.6577712,-38.5
+set 2,Isobutyl mercaptan,CC(C)CS,286.028016,-79.0
+set 2,Dibutyl sulfide,CCCCSCCCC,379.251103,-80.0
+set 2,Chavicol,C=CCC1=CC=C(C=C1)O,448.7379282,16.0
+set 2,Propyl acetate,CCCOC(=O)C,276.2038287,-95.0
+set 2,Diacetyl,CC(=O)C(=O)C,292.8757906,-2.388888889
+set 2,Trimethyl phosphate,COP(=O)(OC)OC,342.9440503,-46.11111111
+set 2,"2,4,6-trimethyl pyridine",CC1=CC(=NC(=C1)C)C,380.1614417,-44.5
+set 2,"1,2-dichloro-1,1-difluoroethane",C(C(F)(F)Cl)Cl,224.8254733,-101.2
+set 2,Allyl sulfide,C=CCSCC=C,367.8249208,-85.0
+set 2,2-ethoxyethanol,CCOCCO,316.1264718,-70.0
+set 2,"1,3-dioxolane",C1COCO1,299.3450268,-95.0
+set 2,Ethyl vynil ether,CCOC=C,201.0790018,-115.0
+set 2,Ethyl isovalerate,CCOC(=O)CC(C)C,313.2796379,-99.3
+set 2,Methylcyclohexane,CC1CCCCC1,301.7264275,-126.0
+set 2,Glyoxal,C(=O)C=O,211.0569786,15.0
+set 2,Methylcyclopentane,CC1CCCC1,259.0930355,-142.3888889
+set 2,Ethanolamine,C(CO)N,355.6603439,10.2777777777777
+set 2,Acetal,CCOC(C)OCC,266.5865744,-100.0
+set 2,Propanethiol,CCCS,263.7352816,-112.7777778
+set 2,Cyclopentadiene,C1C=CC=C1,237.4678742,-85.0
+set 2,Itaconic Acid,C=C(CC(=O)O)C(=O)O,549.5558925,162.0
+set 2,2-propanethiol,CC(C)S,244.0876168,-130.4444444
+set 2,2-mercaptoethanol,C(CS)O,371.3468369,-100.0
+set 2,Mercaptoacetic acid,C(C(=O)O)S,460.0612336,-16.5
+set 2,Dimethyl disulfide,CSSC,339.1705393,-84.72222222
+set 2,Bromoethane,CCBr,226.622161,-118.8888889
+set 2,"1,1-dimethylhidrazine",CN(C)N,285.4716808,-57.77777778
+set 2,2-nitroethanol,C(CO)[N+](=O)[O-],472.8154065,-80.0
+set 2,Dichloroacetaldehyde,C(=O)C(Cl)Cl,282.7866354,-50.0
+set 2,Nitromethane,C[N+](=O)[O-],315.1790116,-28.88888889
+set 2,Methylisocyanate,CN=C=O,230.0871634,-80.0
+set 2,Beta-propiolactone,C1COC1=O,440.2277271,-32.77777778
+set 2,Dimethyl sulfate,COS(=O)(=O)OC,364.2289445,-31.75
+set 2,Acrolein,C=CC=O,230.219301,-87.77777777999998
+set 2,Ethylene clorohydrin,C(CCl)O,317.3169482,-67.5
+set 2,Allyl alcohol,C=CCO,271.5763683,-128.8888889
+set 2,1-chloro-2-fluoroethane,C(CCl)F,203.8706835,-50.0
+set 2,Hydrazine,NN,349.9196059,2.22222222222222
+set 2,Butadiene monoxide,C=CC1CO1,260.5752963,-135.0
+set 2,Thioacetic acid,CC(=O)S,371.5550808,17.0
+set 2,Methyl fluoroacetate,COC(=O)CF,203.3478595,-35.0
+set 2,Trimethyl phosphate,COP(OC)OC,290.7182062,-77.77777777999998
+set 2,N-nitrosodimethylamine,CN(C)N=O,399.4440587,25.0
+set 2,Thiirane,C1CS1,272.1218973,-109.0
+set 2,"1,2,4-triazole",C1=NC=NN1,474.2425484,120.0
+set 2,Chloroacetamide,C(C(=O)N)Cl,495.5804816,120.0
+set 3,acetaldehyde,CC=O,193.0921,-123.5
+set 3,N-methylmethanamine,CNC,164.1363,-92.77777778
+set 3,hydroxylamine,NO,403.1277,33.05
+set 3,chloroethane,CCCl,190.4386,-138.8888889
+set 3,ethanamine,CCN,182.9859,-81.11111110999998
+set 3,"1,1-difluoroethane",CC(F)F,113.2646,-117.2222222
+set 3,"buta-1,2-diene",CC=C=C,179.4629,-136.2
+set 3,bromoethene,C=CBr,213.8301,-139.5
+set 3,propan-2-amine,CC(C)N,197.3312,-101.1111111
+set 3,3-bromoprop-1-ene,C=CCBr,277.3451,-118.8888889
+set 3,prop-2-enenitrile,C=CC#N,271.1663,-82.22222222
+set 3,cyclobutane,C1CCC1,188.491,-80.0
+set 3,2-fluoroethanol,C(CF)O,286.4185,-26.45
+set 3,"ethane-1,2-dithiol",C(CS)S,389.8841,-41.2
+set 3,methoxyethane,CCOC,163.8491,-113.0
+set 3,pent-1-ene,CCCC=C,194.9667,-165.0
+set 3,2-(methylamino)ethanol,CNCCO,355.6364,-4.5

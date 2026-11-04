@@ -1,0 +1,28 @@
+descriptor,all_descriptor_11_input,deployable_25_feature,requires_project_md,provenance_supported_by_repository
+mw,True,True,False,database/structure; exact row-level source unresolved
+rho_exp,False,True,False,experimental literature/database; PubChem claimed for later sets
+tm,True,True,False,experimental literature/database
+tb,True,True,False,experimental literature/database
+ri,True,True,False,external predictive source; exact tool unresolved
+pol,True,True,False,Lorentz-Lorenz calculation; code absent
+i_vol,True,True,False,calculated following cited method; code/reference unresolved
+alpha,True,True,False,external predictive source; exact tool unresolved
+nat,True,True,False,derived from structure
+non_h,True,True,False,derived from structure
+n_N,False,True,False,derived from structure (element count)
+n_P,False,True,False,derived from structure (element count)
+n_O,False,True,False,derived from structure (element count)
+n_S,False,True,False,derived from structure (element count)
+n_F,False,True,False,derived from structure (element count)
+n_Cl,False,True,False,derived from structure (element count)
+n_Br,False,True,False,derived from structure (element count)
+n_I,False,True,False,derived from structure (element count)
+vp,False,True,False,external predictive source; exact tool unresolved
+kappa,False,True,False,external predictive source; exact tool unresolved
+tc,False,True,False,external predictive model; exact tool unresolved
+pc,False,True,False,external predictive model; exact tool unresolved
+omega,False,True,False,critical-property tool output; exact tool unresolved
+triple,False,True,False,external predictive source; exact tool unresolved
+tg,False,True,False,external predictive source; exact tool unresolved
+rho_pzz_cgen/opls,True,False,True,extracted from project MD
+d_cgen/opls,True,False,True,extracted from project MD
